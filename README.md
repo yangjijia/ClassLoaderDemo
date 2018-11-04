@@ -1,0 +1,3 @@
+# ClassLoaderDemo
+
+主要为了演示自定义ClassLoader的方法，以及findClass和loadClass在双亲委派与否时的差异。
